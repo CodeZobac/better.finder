@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "New features and bug fixes",
+  "pub_date": "2025-01-15T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNVFtNXFWRzFhV...",
+      "url": "https://releases.example.com/better-finder/v0.2.0/better-finder_0.2.0_x64_en-US.nsis.zip"
+    }
+  }
+}
